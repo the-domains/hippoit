@@ -2,6 +2,7 @@ name: hippoit
 favicon: null
 layout_spectrum: 0.39763
 typography_spectrum: 0.28202
+title: Hippo IT Management
 cta:
   domain: null
   bucket: null
