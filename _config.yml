@@ -1,0 +1,28 @@
+name: hippoit
+favicon: null
+layout_spectrum: 0.04764814744703472
+typography_spectrum: 0.21689406223595142
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.21557083074003458
+  lightness: 0.16857459186576307
+  saturation: 0.22723803180269897
+  rhythmicContrast: 0.45538495434448123
+purpose: []
